@@ -1,0 +1,23 @@
+body {
+  display: grid;
+}
+header {
+  background-color: chartreuse;
+  font-weight: bolder;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  text-align: center;
+}
+h2 {
+  font-size: x-large;
+}
+footer {
+  background-color: #7e57c2;
+  font-size: xx-large;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  text-align: center;
+  padding: 50px;
+}
